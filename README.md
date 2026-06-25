@@ -11,3 +11,5 @@ Day 2 🔄 -> Added `application.properties` to establish the connection link to
 Day 3 💾 -> Implemented the Core Data Layer by adding the `User.java` JPA entity class to map database records and the `UserRepository.java` interface to handle automated database operations within the `com.sachin.userapi` package.
 
 Day 4 ⚡ -> Added the main Spring Boot Application entry point class to configure automatic component scanning and bootstrap the backend framework environment.
+
+Day 5 🙌 ->Fully completed the REST API by deploying `UserController.java` for clean endpoint routing (CRUD operations) along with `ErrorResponse.java` and `ExceptHandler.java` for a secure, globally managed exception framework. The backend system is verified, fully functional, and working smoothly with data persistence!
